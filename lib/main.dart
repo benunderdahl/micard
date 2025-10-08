@@ -22,7 +22,11 @@ class MyWidget extends StatelessWidget {
             backgroundImage: NetworkImage('https://avatarfiles.alphacoders.com/375/thumb-1920-375334.jpeg'),
           ),
           Text('Power',
-          style: TextStyle(fontSize: 40, fontWeight: FontWeight.bold, fontStyle: FontStyle.italic
+          style: TextStyle(fontSize: 40, fontWeight: FontWeight.bold, fontFamily: 'Allison'
+          ),
+          ),
+          Text('Flutter Developer', style: 
+          TextStyle(fontSize: 30, fontFamily: 'BBH_Sans_Bogle', letterSpacing: 0.75, fontWeight: FontWeight.w500
           ),
           ),
         ]

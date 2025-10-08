@@ -21,7 +21,10 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
-  fonts: 
-  - family: BBH San 
+  fonts:
+  - family: BBH Sans
+    fonts:
+    - asset: fonts/BBH_Sans_Bogle/BBHSansBogle-Regular.ttf
+  - family: Allison
     fonts: 
-    - asset: fonts/BBH_Sans_Bogle.ttf
+    - asset: fonts/Allison/Allison-Regular.ttf
