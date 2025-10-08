@@ -28,3 +28,5 @@ flutter:
   - family: Allison
     fonts: 
     - asset: fonts/Allison/Allison-Regular.ttf
+  assets: 
+  - icons/
