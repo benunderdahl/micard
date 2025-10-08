@@ -18,7 +18,7 @@ Widget build(BuildContext context) {
             mainAxisAlignment: MainAxisAlignment.center,
             children: <Widget>[
               CircleAvatar(
-                radius: 100.0,
+                radius: 125.0,
                 backgroundImage: NetworkImage(
                   'https://avatarfiles.alphacoders.com/375/thumb-1920-375334.jpeg',
                 ),
@@ -26,7 +26,7 @@ Widget build(BuildContext context) {
               Text(
                 'Power',
                 style: TextStyle(
-                  fontSize: 40,
+                  fontSize: 45,
                   fontWeight: FontWeight.bold,
                   fontFamily: 'Allison',
                 ),
@@ -39,6 +39,9 @@ Widget build(BuildContext context) {
                   letterSpacing: 0.75,
                   fontWeight: FontWeight.w500,
                 ),
+              ),
+              SizedBox(
+                height: 50
               ),
               Card(
                 color: Colors.white,
