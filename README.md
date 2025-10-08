@@ -1,8 +1,9 @@
 ## 📱 App Previews
 
 <p align="center">
-  <img src="previews/ios.png" alt="iOS Preview" width="300" height="400" style="margin-right:20px;"/>
-  <img src="previews/android.png" alt="Android Preview" width="300" height="400"/>
+  <img src="previews/ios.png" alt="iOS Preview" width="400" height="500""/>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="previews/android.png" alt="Android Preview" width="400" height="500"/>
 </p>
 <br><br>
 ---
