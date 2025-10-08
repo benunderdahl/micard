@@ -41,7 +41,11 @@ Widget build(BuildContext context) {
                 ),
               ),
               SizedBox(
-                height: 50
+                height: 50,
+                width: 150,
+                child: Divider(
+                  color: const Color.fromARGB(255, 240, 135, 127),
+                ),
               ),
               Card(
                 color: Colors.white,
