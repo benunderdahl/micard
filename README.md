@@ -1,16 +1,15 @@
-# micard
+### IOS PREVIEW 
+![App Screenshot](previews/ios.png)
+<br><br>
 
-A new Flutter project.
+### ANDROID PREVIEW
+![App Screenshot](previews/android.png)
+<br><br>
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🖼️ Image Credits
+- Icons from [Flaticon](https://www.flaticon.com/)  
+  - "Chainsaw" icon by [Freepik](https://www.flaticon.com/authors/freepik)
+  - "Devil" icon by [Pixel perfect](https://www.flaticon.com/authors/pixel-perfect)
+- Background avatar from [AlphaCoders](https://avatarfiles.alphacoders.com/)
