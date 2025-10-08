@@ -1,11 +1,10 @@
-### 📱 iOS Preview
-<img src="previews/ios.png" alt="iOS Preview" width="300" height="500"/>
+## 📱 App Previews
 
-
-### 🤖 Android Preview
-<img src="previews/android.png" alt="Android Preview" width="300" height="500"/>
+<p align="center">
+  <img src="previews/ios.png" alt="iOS Preview" width="300" height="400" style="margin-right:20px;"/>
+  <img src="previews/android.png" alt="Android Preview" width="300" height="400"/>
+</p>
 <br><br>
-
 ---
 
 ## 🖼️ Image Credits
