@@ -1,10 +1,9 @@
 ### 📱 iOS Preview
-<img src="previews/ios.png" alt="iOS Preview" width="300" height="300"/>
+<img src="previews/ios.png" alt="iOS Preview" width="300" height="500"/>
 
-<br><br>
 
 ### 🤖 Android Preview
-<img src="previews/android.png" alt="Android Preview" width="300" height="300"/>
+<img src="previews/android.png" alt="Android Preview" width="300" height="500"/>
 <br><br>
 
 ---
