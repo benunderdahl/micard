@@ -18,8 +18,12 @@ class MyWidget extends StatelessWidget {
         mainAxisAlignment: MainAxisAlignment.start,
         children: <Widget>[
           CircleAvatar(
-            radius: 50.0,
+            radius: 100.0,
             backgroundImage: NetworkImage('https://avatarfiles.alphacoders.com/375/thumb-1920-375334.jpeg'),
+          ),
+          Text('Power',
+          style: TextStyle(fontSize: 40, fontWeight: FontWeight.bold, fontStyle: FontStyle.italic
+          ),
           ),
         ]
       ),
